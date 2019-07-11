@@ -1,10 +1,9 @@
-外部联系人接口(废弃)
+日程接口
 ===================
 
 .. module:: dingtalk.client.api
 
-.. autoclass:: Ext
+.. autoclass:: Calendar
    :members:
    :inherited-members:
-
 

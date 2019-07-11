@@ -1,10 +1,9 @@
-外部联系人接口(废弃)
+公告接口
 ===================
 
 .. module:: dingtalk.client.api
 
-.. autoclass:: Ext
+.. autoclass:: BlackBoard
    :members:
    :inherited-members:
-
 
